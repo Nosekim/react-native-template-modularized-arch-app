@@ -1,8 +1,8 @@
 import {Text, TouchableOpacity} from 'react-native';
 import React from 'react';
 
-import {useAppDispatch} from '../../../../../../redux/hooks';
-import {decrement, increment} from '../../../../../../redux/reducer';
+import {useAppDispatch} from './../../../../../../redux/hooks';
+import {decrement, increment} from './../../../../../../redux/reducer';
 
 import styles from './styles';
 

@@ -9,7 +9,7 @@ import {
 import React, {useState} from 'react';
 import {KeyboardAwareScrollView} from 'react-native-keyboard-aware-scroll-view';
 
-import {useAppDispatch, useAppSelector} from '../../../../../../redux/hooks';
+import {useAppDispatch, useAppSelector} from './../../../../../../redux/hooks';
 
 import styles from './styles';
 import {

@@ -2,11 +2,11 @@
 import {Text, View} from 'react-native';
 import React from 'react';
 
-import {useAppSelector} from '../../../../redux/hooks';
-import {selectCount, selectStatus} from '../../../../redux/reducer';
+import {useAppSelector} from './../../../../redux/hooks';
+import {selectCount, selectStatus} from './../../../../redux/reducer';
 
 //components
-import DefaultContainer from '../../../../sharedComponents/DefaultContainer';
+import DefaultContainer from './../../../../sharedComponents/DefaultContainer';
 import CounterDisplay from './components/CounterDisplay';
 import Button from './components/Button';
 import InputAmmount from './components/InputAmmount';
