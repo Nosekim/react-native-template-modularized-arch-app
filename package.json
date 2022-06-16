@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-modularized-arch-app",
+  "version": "0.0.1",
+  "description": "React Native Template modularized with typescript, react navigation, redux, layout configurations, axios and some examples to start",
+  "repository": "git@github.com:Nosekim/react-native-template-modularized-arch-app.git",
+  "author": "Roger Felipe<NSK> <rogerfelipensk@gmail.com>",
+  "license": "MIT"
+}

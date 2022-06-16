@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render container <DefaultContainer /> 1`] = `
+<RNCSafeAreaView
+  edges={
+    Array [
+      "bottom",
+      "left",
+      "right",
+      "top",
+    ]
+  }
+  style={
+    Object {
+      "borderColor": "#000",
+      "borderWidth": 1,
+      "display": "flex",
+      "flex": 1,
+    }
+  }
+>
+  <Text>
+    Main
+  </Text>
+</RNCSafeAreaView>
+`;

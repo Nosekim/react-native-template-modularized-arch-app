@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`examples of some things 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "justifyContent": "center",
+      "width": "100%",
+    }
+  }
+>
+  <Text>
+    Example Component
+  </Text>
+</View>
+`;
