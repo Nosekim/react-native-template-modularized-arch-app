@@ -6,10 +6,10 @@ module.exports = {
   // Placeholder title that will be replaced in values.xml and Info.plist with title provided by the user.
   // We default this value to 'Hello App Display Name', which is default placeholder in react-native template.
   titlePlaceholder: 'Hello App Display Name',
-  
+
   // Directory with template
   templateDir: "./template",
 
   // Path to script, which will be executed after init
-  postInitScript: "./script.js"
+  //postInitScript: "./script.js"
 };
